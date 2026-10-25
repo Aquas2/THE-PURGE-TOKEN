@@ -1,0 +1,21 @@
+{
+  "name": "THE PURGE TOKEN",
+  "symbol": "$PURG",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/GOAT/refs/heads/main/GOAT%202.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/GOAT/refs/heads/main/GOAT%202.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FCy8HphkpVfqURhDBuXxkcj9Th8gSP2x25M1rDJ9LBYn",
+        "share": 100
+      }
+    ]
+  }
+}
